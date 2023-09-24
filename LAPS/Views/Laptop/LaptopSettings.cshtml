@@ -1,0 +1,21 @@
+﻿<script src="~/Scripts/eAzolution/LaptopJs/LaptopSettings.js"></script>
+<script src="~/Scripts/eAzolution/LaptopJs/LaptopDetails.js"></script>
+<script src="~/Scripts/eAzolution/LaptopJs/LaptopSummary.js"></script>
+@{
+    ViewBag.Title = "LaptopSettings";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>LaptopSettings</h2>
+<div class="leftDiv">
+    @Html.Partial("LaptopSummary");
+</div>
+<div class="rightDiv">
+    @Html.Partial("LaptopDetails");
+</div>
+
+
+
+<button onclick="done()">Done</button>
+

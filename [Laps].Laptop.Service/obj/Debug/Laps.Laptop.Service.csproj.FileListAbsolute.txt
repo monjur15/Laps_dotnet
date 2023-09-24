@@ -1,0 +1,185 @@
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.dll.config
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.pdb
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.exe
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.exe.config
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.rsp
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.exe
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.exe.config
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.rsp
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.AppContext.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Collections.Immutable.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Console.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Globalization.Calendars.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.Compression.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.FileSystem.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Net.Http.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Net.Sockets.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.ValueTuple.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XPath.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.exe
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.exe.config
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.rsp
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe.config
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.AssemblyReference.cache
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CoreCompileInputs.cache
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CopyComplete
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.pdb
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.dll.config
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.pdb
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.exe
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.exe.config
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.rsp
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.exe
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.exe.config
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.rsp
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Managed.Core.targets
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.AppContext.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Collections.Immutable.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Console.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Globalization.Calendars.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.Compression.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.FileSystem.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Net.Http.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Net.Sockets.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Reflection.Metadata.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.ValueTuple.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XPath.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.exe
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.exe.config
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.rsp
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe.config
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CoreCompileInputs.cache
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CopyComplete
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.dll
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.pdb
+D:\lap22\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.AssemblyReference.cache
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.dll.config
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.Service.pdb
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.exe
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.exe.config
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csc.rsp
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.exe
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.exe.config
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\csi.rsp
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.AppContext.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Collections.Immutable.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Console.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Globalization.Calendars.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.Compression.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.FileSystem.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Net.Http.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Net.Sockets.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Reflection.Metadata.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.ValueTuple.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XPath.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.exe
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.exe.config
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\vbc.rsp
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe.config
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CoreCompileInputs.cache
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CopyComplete
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.pdb
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.AssemblyReference.cache
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Azolution.Entities.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.DataService.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Utilities.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Azolution.Common.DataService.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Azolution.Common.dll
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Azolution.Entities.pdb
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.DataService.pdb
+D:\Laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\[Laps].Laptop.DataService.dll.config

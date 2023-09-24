@@ -1,0 +1,67 @@
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.dll
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.pdb
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Utilities.dll
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.DataService.dll
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.dll
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Newtonsoft.Json.dll
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csprojResolveAssemblyReference.cache
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.dll
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.pdb
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.dll
+D:\LAPS\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.pdb
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.dll
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.pdb
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.dll
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Utilities.dll
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.dll
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Newtonsoft.Json.dll
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.pdb
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.dll
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.pdb
+E:\LAPS\Latest\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csprojResolveAssemblyReference.cache
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.pdb
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Utilities.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.DataService.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Newtonsoft.Json.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.pdb
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CoreCompileInputs.cache
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CopyComplete
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.dll
+D:\Aminul\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.pdb
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.pdb
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Utilities.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.DataService.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Newtonsoft.Json.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.pdb
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.pdb
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.dll
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.pdb
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.dll
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Utilities.dll
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.DataService.dll
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.dll
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.pdb
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.dll
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.pdb
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CoreCompileInputs.cache
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CopyComplete
+D:\lap22\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.AssemblyReference.cache
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.dll
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.pdb
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.dll
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Utilities.dll
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.DataService.dll
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Common.dll
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.pdb
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CoreCompileInputs.cache
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CopyComplete
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.dll
+D:\Laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.pdb

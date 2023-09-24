@@ -1,0 +1,20 @@
+﻿<script src="~/Scripts/eAzolution/Sales/Computer/ComputerSettings.js"></script>
+<script src="~/Scripts/eAzolution/Sales/Computer/ComputerDetails.js"></script>
+<script src="~/Scripts/eAzolution/Sales/Computer/ComputerSummary.js"></script>
+
+@{
+    ViewBag.Title = "Computer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div id="maindiv" class="">
+    <h2 class="k-header centerAlign">Computer Info</h2>
+    <div class="leftDiv" style="text-align: center">
+        @Html.Partial("~/Views/Sale/Computer/_ComputerSummary.cshtml")
+
+    </div>
+    <div class="rightDiv">
+        @Html.Partial("~/Views/Sale/Computer/_ComputerDetails.cshtml")
+    </div>
+</div>
